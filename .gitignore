@@ -2,4 +2,4 @@ error.loh
 *.log
 dir/
 .gitingnore
-.xlsx
+*.xlsx
